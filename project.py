@@ -1,3 +1,8 @@
+"""
+Note to user:  If you downloaded this code from my GitHub, please also
+download the Apple file.
+"""
+
 import csv
 import numpy as np
 import matplotlib.pyplot as plt
